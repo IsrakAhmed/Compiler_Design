@@ -1,0 +1,2 @@
+1. Write a C program that can count no of vowel, consonent,  alphanumeric value form a string including space.
+2. Also write  a C program that can add two string into one or separete a string into two string.
